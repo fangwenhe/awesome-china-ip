@@ -152,6 +152,17 @@ This is an open, community-maintained index. To add a verified resource, open a 
 
 **Maintainer**: [Huaqing IP](https://huaqingip.com) — a China-registered trademark agency (华青创新). Questions about your specific mark? [Book a free 30-min consultation](https://calendly.com/huaqingip/30min) or email **ip@huaqingip.com**.
 
+## Explore the full China IP toolkit
+
+| Repository | What it covers |
+|---|---|
+| [china-trademark-toolkit](https://github.com/fangwenhe/china-trademark-toolkit) | Registration, search, fees, 45 classes, refusal response, free risk self-check tool |
+| [china-ip-enforcement](https://github.com/fangwenhe/china-ip-enforcement) | Opposition, invalidation, 撤三, platform takedowns, Amazon Brand Registry China |
+| [china-copyright-registration](https://github.com/fangwenhe/china-copyright-registration) | Works & software copyright (软著) registration, checklists, POA template |
+| [awesome-china-ip](https://github.com/fangwenhe/awesome-china-ip) | Curated hub: official portals, search tools, glossary, machine-readable datasets |
+
+---
+
 ## Disclaimer
 
 This list is for **general information only** and does not constitute legal advice. Official rules, fees and deadlines change; always verify with CNIPA/CCPC/WIPO and consult a qualified Chinese IP professional for your case.
