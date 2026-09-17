@@ -1,5 +1,7 @@
 # Awesome China IP 🇨🇳
 
+**[English](README.md)** | [中文](docs/README.zh-CN.md)
+
 > The practical, curated resource hub for **China intellectual property**: trademark registration, copyright, patents, brand protection and enforcement — written for foreign brands, creators, startups and developers who sell into China or work with Chinese partners.
 
 **China is a first-to-file jurisdiction. If you don't register first, someone else owns your brand in China.** This list collects everything you need — official portals, search tools, fee schedules, registration guides, enforcement options and case lessons — so you can protect your IP in China without getting lost in translation.
@@ -26,8 +28,17 @@
 - [Fee schedules (official)](#fee-schedules-official)
 - [Case studies & lessons](#case-studies--lessons)
 - [Bilingual glossary](#bilingual-glossary)
+- [Machine-readable data](#machine-readable-data)
 - [Contribute](#contribute)
 - [Disclaimer](#disclaimer)
+
+---
+
+## Machine-readable data
+
+- [`datasets/official-portals.csv`](datasets/official-portals.csv) — all official institutions, search tools, platform complaint portals and statutes in one CSV (category, EN/中文 names, URL, authority, notes). Free to reuse under MIT; useful for building IP dashboards and research tools.
+
+---
 
 ---
 
